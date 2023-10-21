@@ -1,0 +1,12 @@
+D:\__Elena\an_III\EGC\l2\Laborator_2\bin\Debug\Laborator_2.exe.config
+D:\__Elena\an_III\EGC\l2\Laborator_2\bin\Debug\Laborator_2.exe
+D:\__Elena\an_III\EGC\l2\Laborator_2\bin\Debug\Laborator_2.pdb
+D:\__Elena\an_III\EGC\l2\Laborator_2\bin\Debug\OpenTK.dll
+D:\__Elena\an_III\EGC\l2\Laborator_2\bin\Debug\OpenTK.GLControl.dll
+D:\__Elena\an_III\EGC\l2\Laborator_2\bin\Debug\OpenTK.xml
+D:\__Elena\an_III\EGC\l2\Laborator_2\bin\Debug\OpenTK.GLControl.xml
+D:\__Elena\an_III\EGC\l2\Laborator_2\obj\Debug\Laborator_2.csproj.AssemblyReference.cache
+D:\__Elena\an_III\EGC\l2\Laborator_2\obj\Debug\Laborator_2.csproj.CoreCompileInputs.cache
+D:\__Elena\an_III\EGC\l2\Laborator_2\obj\Debug\Laborator_2.csproj.CopyComplete
+D:\__Elena\an_III\EGC\l2\Laborator_2\obj\Debug\Laborator_2.exe
+D:\__Elena\an_III\EGC\l2\Laborator_2\obj\Debug\Laborator_2.pdb
